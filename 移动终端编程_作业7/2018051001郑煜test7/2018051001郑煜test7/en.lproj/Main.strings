@@ -1,0 +1,168 @@
+
+/* Class = "UIButton"; configuration.title = "清空"; ObjectID = "0tn-0y-akM"; */
+"0tn-0y-akM.configuration.title" = "清空";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0tn-0y-akM"; */
+"0tn-0y-akM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3sn-MY-wow"; */
+"3sn-MY-wow.text" = "Label";
+
+/* Class = "UIViewController"; title = "查询"; ObjectID = "4V5-No-jwK"; */
+"4V5-No-jwK.title" = "查询";
+
+/* Class = "UINavigationItem"; title = "修改学生信息"; ObjectID = "6fA-X8-Gd9"; */
+"6fA-X8-Gd9.title" = "修改学生信息";
+
+/* Class = "UILabel"; text = "出生日期"; ObjectID = "7EZ-2z-yhQ"; */
+"7EZ-2z-yhQ.text" = "出生日期";
+
+/* Class = "UILabel"; text = "年龄"; ObjectID = "8T8-xQ-tJC"; */
+"8T8-xQ-tJC.text" = "年龄";
+
+/* Class = "UINavigationItem"; title = "学生信息表"; ObjectID = "AAp-oA-6g9"; */
+"AAp-oA-6g9.title" = "学生信息表";
+
+/* Class = "UIViewController"; title = "学生信息表"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "学生信息表";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "CrF-al-MPp"; */
+"CrF-al-MPp.text" = "姓名";
+
+/* Class = "UILabel"; text = "体重"; ObjectID = "Ega-1o-Tik"; */
+"Ega-1o-Tik.text" = "体重";
+
+/* Class = "UILabel"; text = "出生日期"; ObjectID = "EpZ-Zh-wVl"; */
+"EpZ-Zh-wVl.text" = "出生日期";
+
+/* Class = "UILabel"; text = "照片"; ObjectID = "FCa-OC-GhS"; */
+"FCa-OC-GhS.text" = "照片";
+
+/* Class = "UILabel"; text = "学号"; ObjectID = "GwK-vH-cd5"; */
+"GwK-vH-cd5.text" = "学号";
+
+/* Class = "UILabel"; text = "学号"; ObjectID = "J10-P6-ycV"; */
+"J10-P6-ycV.text" = "学号";
+
+/* Class = "UILabel"; text = "体重"; ObjectID = "JqE-Dc-T8X"; */
+"JqE-Dc-T8X.text" = "体重";
+
+/* Class = "UILabel"; text = "学号"; ObjectID = "KOf-T1-jvA"; */
+"KOf-T1-jvA.text" = "学号";
+
+/* Class = "UILabel"; text = "身高"; ObjectID = "LA7-yZ-19B"; */
+"LA7-yZ-19B.text" = "身高";
+
+/* Class = "UILabel"; text = "体重"; ObjectID = "LXY-MY-z2e"; */
+"LXY-MY-z2e.text" = "体重";
+
+/* Class = "UIButton"; configuration.title = "添加"; ObjectID = "LvT-XQ-i3s"; */
+"LvT-XQ-i3s.configuration.title" = "添加";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LvT-XQ-i3s"; */
+"LvT-XQ-i3s.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "OLu-P0-b3Y"; */
+"OLu-P0-b3Y.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "清空"; ObjectID = "PdG-yr-Tny"; */
+"PdG-yr-Tny.configuration.title" = "清空";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PdG-yr-Tny"; */
+"PdG-yr-Tny.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "名"; ObjectID = "SdW-AZ-5ol"; */
+"SdW-AZ-5ol.text" = "名";
+
+/* Class = "UILabel"; text = "出生日期"; ObjectID = "TQa-Ed-TN6"; */
+"TQa-Ed-TN6.text" = "出生日期";
+
+/* Class = "UIButton"; configuration.title = "修改"; ObjectID = "V6o-K0-4Kh"; */
+"V6o-K0-4Kh.configuration.title" = "修改";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "V6o-K0-4Kh"; */
+"V6o-K0-4Kh.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "下一个"; ObjectID = "Vw7-Yq-hZL"; */
+"Vw7-Yq-hZL.configuration.title" = "下一个";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Vw7-Yq-hZL"; */
+"Vw7-Yq-hZL.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "删除"; ObjectID = "aAH-4o-QqW"; */
+"aAH-4o-QqW.configuration.title" = "删除";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aAH-4o-QqW"; */
+"aAH-4o-QqW.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "上一个"; ObjectID = "cNq-EN-qAy"; */
+"cNq-EN-qAy.configuration.title" = "上一个";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cNq-EN-qAy"; */
+"cNq-EN-qAy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "年龄"; ObjectID = "dWn-76-OAZ"; */
+"dWn-76-OAZ.text" = "年龄";
+
+/* Class = "UILabel"; text = "年龄 = "; ObjectID = "e9T-bD-g67"; */
+"e9T-bD-g67.text" = "年龄 = ";
+
+/* Class = "UILabel"; text = "班级"; ObjectID = "eH4-iU-SH1"; */
+"eH4-iU-SH1.text" = "班级";
+
+/* Class = "UILabel"; text = "年龄"; ObjectID = "hQT-gh-R28"; */
+"hQT-gh-R28.text" = "年龄";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "hvn-Qo-JQa"; */
+"hvn-Qo-JQa.text" = "姓名";
+
+/* Class = "UILabel"; text = "姓"; ObjectID = "iuF-aN-PGV"; */
+"iuF-aN-PGV.text" = "姓";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "jX4-zQ-Ec3"; */
+"jX4-zQ-Ec3.text" = "姓名";
+
+/* Class = "UILabel"; text = "身高"; ObjectID = "lJL-ks-2nw"; */
+"lJL-ks-2nw.text" = "身高";
+
+/* Class = "UILabel"; text = "学号"; ObjectID = "lsN-ow-YRJ"; */
+"lsN-ow-YRJ.text" = "学号";
+
+/* Class = "UILabel"; text = "年龄 > "; ObjectID = "mtN-v3-U6S"; */
+"mtN-v3-U6S.text" = "年龄 > ";
+
+/* Class = "UIButton"; configuration.title = "查询"; ObjectID = "p75-Rj-qbw"; */
+"p75-Rj-qbw.configuration.title" = "查询";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "p75-Rj-qbw"; */
+"p75-Rj-qbw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "身高"; ObjectID = "pT4-MT-K1l"; */
+"pT4-MT-K1l.text" = "身高";
+
+/* Class = "UINavigationItem"; title = "查询学生信息"; ObjectID = "pa8-e4-MLy"; */
+"pa8-e4-MLy.title" = "查询学生信息";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "peq-aD-FSd"; */
+"peq-aD-FSd.text" = "姓名";
+
+/* Class = "UILabel"; text = "身高 < "; ObjectID = "s9p-xz-RTs"; */
+"s9p-xz-RTs.text" = "身高 < ";
+
+/* Class = "UILabel"; text = "班级"; ObjectID = "vPi-aL-Vbx"; */
+"vPi-aL-Vbx.text" = "班级";
+
+/* Class = "UILabel"; text = "班级"; ObjectID = "wVp-LM-fo1"; */
+"wVp-LM-fo1.text" = "班级";
+
+/* Class = "UILabel"; text = "身高 = "; ObjectID = "wcT-Tq-K3B"; */
+"wcT-Tq-K3B.text" = "身高 = ";
+
+/* Class = "UILabel"; text = "年龄 < "; ObjectID = "wzp-rx-EEB"; */
+"wzp-rx-EEB.text" = "年龄 < ";
+
+/* Class = "UIViewController"; title = "修改"; ObjectID = "y1O-S6-LON"; */
+"y1O-S6-LON.title" = "修改";
+
+/* Class = "UILabel"; text = "身高 > "; ObjectID = "ytC-01-OpD"; */
+"ytC-01-OpD.text" = "身高 > ";

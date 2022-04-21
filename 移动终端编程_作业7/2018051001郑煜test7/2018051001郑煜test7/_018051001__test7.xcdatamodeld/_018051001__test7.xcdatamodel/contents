@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21D62" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Student" representedClassName="Student" syncable="YES">
+        <attribute name="s_age" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="s_born" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="s_class" optional="YES" attributeType="String"/>
+        <attribute name="s_h" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="s_id" optional="YES" attributeType="String"/>
+        <attribute name="s_image" optional="YES" attributeType="Binary"/>
+        <attribute name="s_name" optional="YES" attributeType="String"/>
+        <attribute name="s_w" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="Student" positionX="-63" positionY="-18" width="128" height="149"/>
+    </elements>
+</model>
